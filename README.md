@@ -9,8 +9,8 @@ the website.
 
 
 ## Implementation
-- Download the zip file. Then open the index.html file with a web browser of your 
-choice.
+- Download the zip file 
+- Open the index.html file with a web browser of your choice
 
 
 ## Build With
